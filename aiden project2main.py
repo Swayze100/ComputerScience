@@ -9,3 +9,6 @@ for line in file:
   answer += '\n'
 
 print (answer)
+
+def solution(a):
+  return a / 8
